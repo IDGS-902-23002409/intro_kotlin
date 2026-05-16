@@ -14,7 +14,6 @@ class Persona {
         else println("No es mayor de edad $nombre")
     }
 }
-
 fun main(parametro: Array<String>) {
     val persona1: Persona
     persona1 = Persona()
